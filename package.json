@@ -9,10 +9,24 @@
     "web": "expo start --web"
   },
   "dependencies": {
-    "expo": "~50.0.14",
-    "expo-status-bar": "~1.11.1",
-    "react": "18.2.0",
-    "react-native": "0.73.6"
+    "@react-native-async-storage/async-storage": "",
+    "@react-navigation/bottom-tabs": "",
+    "@react-navigation/native": "",
+    "@react-navigation/native-stack": "",
+    "@stripe/stripe-react-native": "",
+    "axios": "",
+    "expo": "",
+    "expo-font": "",
+    "expo-splash-screen": "",
+    "expo-status-bar": "",
+    "react": "",
+    "react-native": "",
+    "react-native-gesture-handler": "",
+    "react-native-image-slider-box": "",
+    "react-native-safe-area-context": "",
+    "react-native-screens": "",
+    "react-native-snap-carousel": "",
+    "react-native-webview": ""
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
